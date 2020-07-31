@@ -1,6 +1,6 @@
 # ygo-fuzz-frame
 
-An simple fuzz frame I use to fuzz test ygocore yo-gi-oh card game.
+A simple fuzz frame I use to fuzz test ygocore yo-gi-oh card game.
 
 ### 1. memory leak
 
@@ -8,9 +8,9 @@ Run ygocore.exe, you can get this game in the link below.
 
 https://f95e1b.link.yunpan.360.cn/lk/surl_yqKswy5qjaZ#/-0
 
-If you get a higher version program, you should change the VERSION patameter in extra_info.py.
+If you get a higher version program, you should change the VERSION parameter in extra_info.py.
 
-Click the first button, witch means play with others.
+Click the first button, which means play with others.
 
 ![image](https://github.com/ChinaBluecat/ygo-fuzz-frame/blob/master/pic/0.PNG)
 
