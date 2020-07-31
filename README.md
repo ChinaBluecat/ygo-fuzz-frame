@@ -1,6 +1,6 @@
 # ygo-fuzz-framework
 
-A simple fuzz frame I use to fuzz test ygocore yo-gi-oh card game.
+A simple fuzz framework I use to fuzz test ygocore yo-gi-oh card game.
 
 ### 1. memory leak
 
