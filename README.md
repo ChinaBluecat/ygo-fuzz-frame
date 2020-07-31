@@ -12,15 +12,15 @@ If you get a higher version program, you should change the VERSION patameter in 
 
 Click the first button, witch means play with others.
 
-![image](https://github.com/ChinaBluecat/ygo-fuzz-frame/tree/master/pic/0.png)
+![image](https://github.com/ChinaBluecat/ygo-fuzz-frame/blob/master/pic/0.PNG)
 
 Then click the button top right to create a room.
 
-![image](https://github.com/ChinaBluecat/ygo-fuzz-frame/tree/master/pic/1.png)
+![image](https://github.com/ChinaBluecat/ygo-fuzz-frame/blob/master/pic/1.png)
 
 Click the button '确定'. It will create a server thread in your local network with port==7911.
 
-![image](https://github.com/ChinaBluecat/ygo-fuzz-frame/tree/master/pic/2.png)
+![image](https://github.com/ChinaBluecat/ygo-fuzz-frame/blob/master/pic/2.png)
 
 You should check your IP address, and change ygo_server_addr in leak_ygo.py.
 
