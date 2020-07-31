@@ -4,6 +4,8 @@
 存放所有额外信息
 '''
 
+VERSION = 0x1351
+
 NETWORK_SERVER_ID	=0x7428
 NETWORK_CLIENT_ID	=0xdef6
 

@@ -147,7 +147,7 @@ class ygo_handle(Net_Handle):
         return
 
     def send_CTOS_JoinGame(self, DEBUG=False):
-        version = 0x134b#0x1351#0x134b
+        version = VERSION#0x134b#0x1351
         gameid = 0x62
         pass_ = b'Marshtomp' if DEBUG else b'M#123'
         join_game = CTOS_JoinGame(version, gameid, pass_)
